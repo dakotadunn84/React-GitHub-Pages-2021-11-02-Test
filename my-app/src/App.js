@@ -1,5 +1,6 @@
-import logo from './logo.svg';
+import logo from './monkey.png';
 import './App.css';
+import ReactPlayer from "react-player"
 
 function App() {
   return (
@@ -7,16 +8,13 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Learn Mandarin from the lyrics of popular songs at karaoke.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <div>
+          <ReactPlayer
+            url="https://www.youtube.com/watch?v=IFTZtuXKzFs"
+          />
+        </div>
       </header>
     </div>
   );
