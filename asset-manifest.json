@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/React-GitHub-Pages-2021-11-02-Test/static/css/main.a617e044.chunk.css",
-    "main.js": "/React-GitHub-Pages-2021-11-02-Test/static/js/main.6bc689e0.chunk.js",
-    "main.js.map": "/React-GitHub-Pages-2021-11-02-Test/static/js/main.6bc689e0.chunk.js.map",
-    "runtime-main.js": "/React-GitHub-Pages-2021-11-02-Test/static/js/runtime-main.887e89a1.js",
-    "runtime-main.js.map": "/React-GitHub-Pages-2021-11-02-Test/static/js/runtime-main.887e89a1.js.map",
-    "static/js/2.8833cd6e.chunk.js": "/React-GitHub-Pages-2021-11-02-Test/static/js/2.8833cd6e.chunk.js",
-    "static/js/2.8833cd6e.chunk.js.map": "/React-GitHub-Pages-2021-11-02-Test/static/js/2.8833cd6e.chunk.js.map",
-    "static/js/3.ff0311e9.chunk.js": "/React-GitHub-Pages-2021-11-02-Test/static/js/3.ff0311e9.chunk.js",
-    "static/js/3.ff0311e9.chunk.js.map": "/React-GitHub-Pages-2021-11-02-Test/static/js/3.ff0311e9.chunk.js.map",
+    "main.js": "/React-GitHub-Pages-2021-11-02-Test/static/js/main.417d03a3.chunk.js",
+    "main.js.map": "/React-GitHub-Pages-2021-11-02-Test/static/js/main.417d03a3.chunk.js.map",
+    "runtime-main.js": "/React-GitHub-Pages-2021-11-02-Test/static/js/runtime-main.d326a165.js",
+    "runtime-main.js.map": "/React-GitHub-Pages-2021-11-02-Test/static/js/runtime-main.d326a165.js.map",
+    "static/js/2.f6b3c529.chunk.js": "/React-GitHub-Pages-2021-11-02-Test/static/js/2.f6b3c529.chunk.js",
+    "static/js/2.f6b3c529.chunk.js.map": "/React-GitHub-Pages-2021-11-02-Test/static/js/2.f6b3c529.chunk.js.map",
+    "static/js/3.06dd95dc.chunk.js": "/React-GitHub-Pages-2021-11-02-Test/static/js/3.06dd95dc.chunk.js",
+    "static/js/3.06dd95dc.chunk.js.map": "/React-GitHub-Pages-2021-11-02-Test/static/js/3.06dd95dc.chunk.js.map",
     "index.html": "/React-GitHub-Pages-2021-11-02-Test/index.html",
     "static/css/main.a617e044.chunk.css.map": "/React-GitHub-Pages-2021-11-02-Test/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.8833cd6e.chunk.js.LICENSE.txt": "/React-GitHub-Pages-2021-11-02-Test/static/js/2.8833cd6e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/React-GitHub-Pages-2021-11-02-Test/static/media/logo.6ce24c58.svg"
+    "static/js/2.f6b3c529.chunk.js.LICENSE.txt": "/React-GitHub-Pages-2021-11-02-Test/static/js/2.f6b3c529.chunk.js.LICENSE.txt",
+    "static/media/monkey.3eb9d375.png": "/React-GitHub-Pages-2021-11-02-Test/static/media/monkey.3eb9d375.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.887e89a1.js",
-    "static/js/2.8833cd6e.chunk.js",
+    "static/js/runtime-main.d326a165.js",
+    "static/js/2.f6b3c529.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.6bc689e0.chunk.js"
+    "static/js/main.417d03a3.chunk.js"
   ]
 }
